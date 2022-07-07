@@ -19,5 +19,5 @@ metadata:
   name: pvc
 spec:
   hard:
-    persistentvolumeclaims: "6"
+    persistentvolumeclaims: "7"
 # [END anthosconfig_hierarchical_format_config_namespaces_team_2_resource_quota]
